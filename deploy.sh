@@ -1,1 +1,2 @@
-exit 1
+#!/bin/bash
+touch /tmp/slack-deploy-bot
